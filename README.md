@@ -27,7 +27,7 @@ Base V14 com suporte a database MongoDB
 
 - `1.` Baixe o projeto ou clone com:
 ```bash
-git clone https://github.com/arrastaorj/BaseV14Slash
+git clone https://github.com/arrastaorj/BaseV14Slash.git
 ```
 - `2.` Abre a pasta do projeto;
 - `3.` No terminal para instalação das dependências, execute o comando:
